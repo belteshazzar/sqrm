@@ -8,6 +8,7 @@ sqrm (pronounced squirm) is markdown, but re-imagined from a clean sheet. There 
 ## Inline Text Formatting
 
 sqrm lets you format text by using two or more consecutive special characters to start or end inline formatting:
+
 1. The number of characters that you start and end formatting with doesn't have to match, as long as its more than 2
 2. If you don't match opening and closing formatting don't worry
 3. All formatting is closed automatically at the end of the line. 
